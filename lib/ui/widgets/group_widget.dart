@@ -34,7 +34,7 @@ class _GroupWidgetState extends State<GroupWidget> {
           onPressed: () {
             Get.to(AddGroupPage(context));
 
-            logInfo('XXXXXXAqui navegar a AddGroupPageXXXXXX');
+            logInfo('Aqui navegar a AddGroupPage');
           },
         ));
   }

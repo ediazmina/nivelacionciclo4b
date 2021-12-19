@@ -15,5 +15,15 @@ Pista: Revisar los comentarios TODO
 
 <img src="firebase.gif" width="300" />
 
-Proyecto Nivelacion
+Proyecto Nivelacion Administracion de Grupos
+
+Repositorio:
+https://github.com/ediazmina/nivelacionciclo4b
+
+Video Pruebas Widget e Integración:
+https://drive.google.com/file/d/17ONiPoEvngbcUR3uNlnqoGXL3K1D5-YA/view?usp=sharing
+
+Video Demo:
+https://drive.google.com/file/d/1A3GQSZTi5gjeINuNGM-gF5O7oT0J5Qt4/view?usp=sharing
+
 Esteban Andres Diaz Mina
